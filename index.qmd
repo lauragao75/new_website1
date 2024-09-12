@@ -1,0 +1,11 @@
+---
+title: "Welcome to my Website"
+---
+
+Hi
+
+Name: Zien Gao
+
+Student at the University of Toronto
+
+Major: Mathmatics, Statistics
